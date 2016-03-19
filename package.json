@@ -1,0 +1,10 @@
+{
+    "name": "artist-data",
+    "version": "1.0",
+    "repository": "https://github.com/Team-Tentickles/ArtistData.git",
+    "author": "Ben Wilcox <reccanti@gmail.com.com>",
+    "main": "artists",
+    "scripts": {
+        "test": "echo 'No tests specified'"
+    }
+}
