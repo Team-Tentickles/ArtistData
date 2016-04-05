@@ -1,4 +1,5 @@
 var artists = {
+	[
 	"decade": {
 		"year": "1950s",
 		"artistsArray": [
@@ -41,7 +42,9 @@ var artists = {
 				"influencers": []
 			}
 		]
-	},
+	}
+	],
+	[
 	"decade": {
 		"year": "1960s",
 		"artistsArray": [
@@ -86,7 +89,9 @@ var artists = {
 				"influencers": []
 			}
 		]
-	},
+	}
+	],
+	[
 	"decade": {
 		"year": "1970s",
 		"artistsArray": [
@@ -132,7 +137,9 @@ var artists = {
 				"influencers": []
 			}
 		]
-	},
+	}
+	],
+	[
 	"decade": {
 		"year": "1980s",
 		"artistsArray": [
@@ -177,7 +184,9 @@ var artists = {
 				"influencers": []
 			}
 		]
-	},
+	}
+	],
+	[
 	"decade": {
 		"year": "1990s",
 		"artistsArray": [
@@ -222,7 +231,9 @@ var artists = {
 				"influencers": []
 			}
 		]
-	},
+	}
+	],
+	[
 	"decade": {
 		"year": "2000s",
 		"artistsArray": [
@@ -267,7 +278,9 @@ var artists = {
 				"influencers": []
 			}
 		]
-	},
+	}
+	],
+	[
 	"decade": {
 		"year": "2010s",
 		"artistsArray": [
@@ -313,5 +326,6 @@ var artists = {
 			}
 		]
 	}
+	]
 }
 module.exports = artists;
