@@ -14,21 +14,21 @@ var artists = {
 				{
 					"name": "Elvis Presley",
 					"bio": [],
-					"images": ["https://lh6.googleusercontent.com/bOBjbB8x-bTVz0RCawmRQ3ja5q0MqytYMTj-KbTOZ2pSslyyNfn9-RWxirOxwlx2AVgk_w=w1044-h917"],
+					"images": ["../artistImages/Elvis_Presley/Elvis_Presley.jpg"],
 					"videos": [],
 					"songs": [],
 					"influencers": []
 				},
 				{
 					"name": "Frank Sinatra",
-					"images": ["https://lh6.googleusercontent.com/F7q-0MGFuJgCvmDrRaKj-uVI_G6BxDZlIypbrl6IJ8I8cakDF-qG3kQffsJHV2Krw3SN7Q=w1059-h881"],
+					"images": [],
 					"videos": [],
 					"influencers": []
 				},
 				{
 					"name": "Nat King Cole",
 					"bio": [],
-					"images": ["https://lh3.googleusercontent.com/zKC9RsV7nvaT0DIgOiPN3pZvRi6J7ZYPG56fmVJfrjBedmlwPnmIiIwE_yvR_6vMb_Pj0w=w1059-h917"],
+					"images": [],
 					"videos": [],
 					"songs": [],
 					"influencers": []
@@ -36,7 +36,7 @@ var artists = {
 				{
 					"name": "Johnny Cash",
 					"bio": [],
-					"images": ["https://lh6.googleusercontent.com/0uvXnFIhMHCKvzMUy8MYoNDTJkTCxbTyo_i6CDXr067TnCh8wgG4rue4F-RUZhdSJNoDQQ=w1059-h917"],
+					"images": [],
 					"videos": [],
 					"songs": [],
 					"influencers": []
@@ -44,7 +44,7 @@ var artists = {
 				{
 					"name": "Ella Fitzgerald",
 					"bio": [],
-					"images": ["https://lh3.googleusercontent.com/YgINH6oqsLMb6g-bfdmzCUsCxaX2QdEP1RziGFlV0ogS22n3mbfJbCgKcnDoB4FJi9x8tg=w1059-h917"],
+					"images": [],
 					"videos": [],
 					"songs": [],
 					"influencers": []
