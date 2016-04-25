@@ -6,21 +6,21 @@ var artists = {
 				{
 					"name": "Elvis Presley",
 					"bio": [],
-					"images": ["blob:https%3A//drive.google.com/b662f289-a847-433a-8d4c-75eaa7952ddc"],
+					"images": ["../artistImages/Elvis_Presley/Elvis_Presley.jpg"],
 					"videos": [],
 					"songs": [],
 					"influencers": []
 				},
 				{
 					"name": "Frank Sinatra",
-					"images": ["blob:https%3A//drive.google.com/1b974f93-80fd-4073-a96b-5b6af54d00e5"],
+					"images": [],
 					"videos": [],
 					"influencers": []
 				},
 				{
 					"name": "Nat King Cole",
 					"bio": [],
-					"images": ["blob:https%3A//drive.google.com/5f6bff4a-cd5c-4cf1-a938-b93db9169dcd"],
+					"images": [],
 					"videos": [],
 					"songs": [],
 					"influencers": []
