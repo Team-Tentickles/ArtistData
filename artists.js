@@ -6,7 +6,7 @@ var artists = {
 				{
 					"name": "Elvis Presley",
 					"bio": [],
-					"images": ["../public/artistImages/Elvis_Presley/Elvis_Presley.jpg"],
+					"images": ["file:///../public/artistImages/Elvis_Presley/Elvis_Presley.jpg"],
 					"videos": [],
 					"songs": [],
 					"influencers": []
