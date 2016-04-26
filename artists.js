@@ -13,7 +13,7 @@ var artists = {
 				},
 				{
 					"name": "Frank Sinatra",
-					"images": [],
+					"images": ["artistImages/Frank_Sinatra/Frank_Sinatra.png"],
 					"videos": [],
 					"influencers": []
 				},
@@ -260,52 +260,7 @@ var artists = {
 					"influencers": []
 				},
 				{
-					"name": "Justin Timberlake",
-					"bio": [],
-					"images": [],
-					"videos": [],
-					"songs": [],
-					"influencers": []
-				}
-			]
-		},
-		{
-			"year": "2010s",
-			"artistsArray": [
-				{
-					"name": "Adele",
-					"bio": [],
-					"images": [],
-					"videos": [],
-					"songs": [],
-					"influencers": []
-				},
-				{
-					"name": "Lady Gaga",
-					"bio": [],
-					"images": [],
-					"videos": [],
-					"songs": [],
-					"influencers": []
-				},
-				{
 					"name": "Rihanna",
-					"bio": [],
-					"images": [],
-					"videos": [],
-					"songs": [],
-					"influencers": []
-				},
-				{
-					"name": "Taylor Swift",
-					"bio": [],
-					"images": [],
-					"videos": [],
-					"songs": [],
-					"influencers": []
-				},
-				{
-					"name": "Ed Sheeran",
 					"bio": [],
 					"images": [],
 					"videos": [],
