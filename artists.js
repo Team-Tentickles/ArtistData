@@ -30,7 +30,7 @@ var artists = {
 				{
 					"name": "Johnny Cash",
 					"bio": [],
-					"images": ["artistImages/Nat_King_Cole/Nat_King_Cole.png"],
+					"images": ["artistImages/Johnny_Cash/Johnny_Cash.png"],
 					"videos": [],
 					"songs": ["I Walk The Line","Ring Of Fire","Folsom Prison Blues"],
 					"influencers": []
@@ -38,7 +38,7 @@ var artists = {
 				{
 					"name": "Ella Fitzgerald",
 					"bio": [],
-					"images": ["artistImages/Ella_Fitzgerald/EllaFitzgerald.png"],
+					"images": ["artistImages/Ella_Fitzgerald/Ella_Fitzgerald.png"],
 					"videos": [],
 					"songs": ["Dream A Little Dream Of Me","Cheek to Cheek","My Funny Valentine"],
 					"influencers": []
