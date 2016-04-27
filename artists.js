@@ -6,39 +6,41 @@ var artists = {
 				{
 					"name": "Elvis Presley",
 					"bio": [],
-					"images": ["artistImages/Elvis_Presley/Elvis_Presley.jpg"],
+					"images": ["artistImages/Elvis_Presley/Elvis_Presley.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Can't Help Falling In Love","Suspicious Minds","Jailhouse Rock"],
 					"influencers": []
 				},
 				{
 					"name": "Frank Sinatra",
+					"bio": [],
 					"images": ["artistImages/Frank_Sinatra/Frank_Sinatra.png"],
 					"videos": [],
+					"songs": ["New York, New York","My Kind Of Town","My Way"],
 					"influencers": []
 				},
 				{
 					"name": "Nat King Cole",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Nat_King_Cole/Nat_King_Cole.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Unforgettable","L-O-V-E","When I Fall In Love"],
 					"influencers": []
 				},
 				{
 					"name": "Johnny Cash",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Nat_King_Cole/Nat_King_Cole.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["I Walk The Line","Ring Of Fire","Folsom Prison Blues"],
 					"influencers": []
 				},
 				{
 					"name": "Ella Fitzgerald",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Ella_Fitzgerald/EllaFitzgerald.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Dream A Little Dream Of Me","Cheek to Cheek","My Funny Valentine"],
 					"influencers": []
 				}
 			]
@@ -49,41 +51,41 @@ var artists = {
 				{
 					"name": "The Beatles",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/The_Beatles/The_Beatles.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Hey Jude","I Want To Hold Your Hand","Let It Be"],
 					"influencers": []
 				},
 				{
 					"name": "The Supremes",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/The_Supremes/The_Supremes.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["You Can't Hurry Love","Baby Love","Stop! In The Name Of Love"],
 					"influencers": []
 				},
 				{
 					"name": "The Rolling Stones",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/The_Rolling_Stones/The_Rolling_Stones.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["You Can't Always Get What You Want","Gimme Shelter","Satisfaction"],
 					"influencers": []    
 				},
 				{
 					"name": "The Beach Boys",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/The_Beach_Boys/The_Beach_Boys.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Good Vibrations","Wouldn't It Be Nice","God Only Knows"],
 					"influencers": []
 				},
 				{
 					"name": "Ray Charles",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Ray_Charles/Ray_Charles.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Hit The Road Jack","Georgia On My Mind","I Can't Stop Loving You"],
 					"influencers": []
 				}
 			]
@@ -95,41 +97,41 @@ var artists = {
 					"name": "Elton John",
 					"images": [],
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Elton_John/Elton_John.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Your Song","Tiny Dancer","Rocket Man"],
 					"influencers": []
 				},
 				{
 					"name": "KISS",
 					"bio": [],
-					"images": [],
-						"videos": [],
-						"songs": [],
-						"influencers": []
+					"images": ["artistImages/KISS/KISS.png"],
+					"videos": [],
+					"songs": ["Rock And Roll All Nite","I Was Made For Loving You","Black Diamond"],
+					"influencers": []
 				},
 				{
 					"name": "Bee Gees",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Bee_Gees/Bee_Gees.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Stayin' Alive","How Deep Is Your Love","To Love Somebody"],
 					"influencers": []
 				},
 				{
 					"name": "Earth, Wind, Fire",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Earth_Wind_Fire/Earth_Wind_Fire.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Boogie Wonderland","Let's Groove","September"],
 					"influencers": []
 				},
 				{
 					"name": "Rod Stewart",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Rod_Stewart/Rod_Stewart.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Have You Ever Seen The Rain","I Don't Want To Talk About It","Sailing"],
 					"influencers": []
 				}
 			]
@@ -140,41 +142,41 @@ var artists = {
 				{
 					"name": "Madonna",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Madonna/Madonna.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Like A Virgin","Like A Player","Material Girl"],
 					"influencers": []
 				},
 				{
 					"name": "Prince",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Prince/Prince.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Little Red Corvette","I Wanna Be Your Lover","The Most Beautiful Girl In The World"],
 					"influencers": []
 				},
 				{
 					"name": "Michael Jackson",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Michael_Jackson/Michael_Jackson.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["I'll Be There","Smooth Criminal","Thriller"],
 					"influencers": []
 				},
 				{
 					"name": "Billy Joel",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Billy_Joel/Billy_Joel.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Piano Man","We Didn't Start The Fire","Uptown Girl"],
 					"influencers": []
 				},
 				{
 					"name": "The Police",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/The_Police/The_Police.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Every Breath You Take","Roxanne","Message In A Bottle"],
 					"influencers": []
 				}
 			]
@@ -185,41 +187,41 @@ var artists = {
 				{
 					"name": "Nirvana",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Nirvana/Nirvana.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Smells Like Teen Spirit","Come As You Are","The Man Who Sold The World"],
 					"influencers": []
 				},
 				{
 					"name": "U2",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/U2/U2.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["With Or Without You","Beautiful Day","One"],
 					"influencers": []
 				},
 				{
 					"name": "Backstreet Boys",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Backstreet_Boys/Backstreet_Boys.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["I Want It That Way","As Long As You Love Me","EveryBody"],
 					"influencers": []
 				},
 				{
 					"name": "Pearl Jam",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Pearl_Jam/Pearl_Jam.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Alive","Black","Jeremy"],
 					"influencers": []
 				},
 				{
 					"name": "The Spice Girls",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/The_Spice_Girls/The_Spice_Girls.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Wannabe","Spice Up Your Life","2 Become 1"],
 					"influencers": []
 				}
 			]
@@ -230,41 +232,41 @@ var artists = {
 				{
 					"name": "Green Day",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Green_Day/Green_Day.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["American Idiot","Boulevard Of Broken Dreams","Wake Me Up When September Ends"],
 					"influencers": []
 				},
 				{
 					"name": "Red Hot Chili Peppers",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Red_Hot_Chili_Peppers/Red_Hot_Chili_Peppers.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Californication","Can't Stop","Otherside"],
 					"influencers": []
 				},
 				{
 					"name": "The Black Keys",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/The_Black_Keys/The_Black_Keys.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Lonely Boy","Tighten Up","Gold On The Ceiling"],
 					"influencers": []
 				},
 				{
 					"name": "Beyonce",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Beyonce/Beyonce.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Crazy In Love","Single Ladies","Halo"],
 					"influencers": []
 				},
 				{
-					"name": "Rihanna",
+					"name": "Adele",
 					"bio": [],
-					"images": [],
+					"images": ["artistImages/Adele/Adele.png"],
 					"videos": [],
-					"songs": [],
+					"songs": ["Hello","Rolling In The Deep","Someone Like You"],
 					"influencers": []
 				}
 			]
