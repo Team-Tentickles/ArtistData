@@ -5,7 +5,7 @@ var artists = {
 			"artistsArray": [
 				{
 					"name": "Elvis Presley",
-					"bio": [],
+					"bio": ["Elvis Aaron Presley was an American musician and actor. Regarded as one of the most significant cultural icons of the 20th century, he is often referred to as \"the King of Rock and Roll\", or simply, \"the King\". Commercially successful in many genres, including pop, blues and gospel, he is the best-selling solo artist in the history of recorded music, with estimated record sales of around 600 million units worldwide. He won three Grammys, also receiving the Grammy Lifetime Achievement Award at age 36."],
 					"images": ["artistImages/Elvis_Presley/Elvis_Presley.png"],
 					"videos": [],
 					"songs": ["Can't Help Falling In Love","Suspicious Minds","Jailhouse Rock"],
@@ -13,7 +13,7 @@ var artists = {
 				},
 				{
 					"name": "Frank Sinatra",
-					"bio": [],
+					"bio": ["Francis Albert \"Frank\" Sinatra was an American singer, actor, and producer who was one of the most popular and influential musical artists of the 20th century. Sinatra's music has been considered timeless by many. Sinatra was also the recipient of eleven Grammy Awards, including the Grammy Trustees Award,Grammy Legend Award and the Grammy Lifetime Achievement Award .He is one of the best-selling music artists of all time, having sold more than 150 million records worldwide."],
 					"images": ["artistImages/Frank_Sinatra/Frank_Sinatra.png"],
 					"videos": [],
 					"songs": ["New York, New York","My Kind Of Town","My Way"],
@@ -21,7 +21,7 @@ var artists = {
 				},
 				{
 					"name": "Nat King Cole",
-					"bio": [],
+					"bio": ["Nathaniel Adams Coles, known professionally as Nat King Cole, was an American singer who first came to prominence as a leading jazz pianist. Cole also sold an impressive 50 million records during his career and was awarded the Grammy Lifetime Achievement Award."],
 					"images": ["artistImages/Nat_King_Cole/Nat_King_Cole.png"],
 					"videos": [],
 					"songs": ["Unforgettable","L-O-V-E","When I Fall In Love"],
@@ -29,7 +29,7 @@ var artists = {
 				},
 				{
 					"name": "Johnny Cash",
-					"bio": [],
+					"bio": ["John R. \"Johnny\" Cash was an American singer-songwriter, guitarist, actor, and author, who was widely considered one of the most influential musicians of the 20th century and one of the best-selling artists of all time, having sold more than 90 million records worldwide."],
 					"images": ["artistImages/Johnny_Cash/Johnny_Cash.png"],
 					"videos": [],
 					"songs": ["I Walk The Line","Ring Of Fire","Folsom Prison Blues"],
@@ -37,7 +37,7 @@ var artists = {
 				},
 				{
 					"name": "Ella Fitzgerald",
-					"bio": [],
+					"bio": ["Ella Jane Fitzgerald was an American jazz singer often referred to as the First Lady of Song, Queen of Jazz and Lady Ella. She was noted for her purity of tone, impeccable diction, phrasing and intonation, and a \"horn-like\" improvisational ability, particularly in her scat singing. Fitzgerald's influence lives on through her fourteen Grammy Awards, National Medal of Arts, and Presidential Medal of Freedom."],
 					"images": ["artistImages/Ella_Fitzgerald/Ella_Fitzgerald.png"],
 					"videos": [],
 					"songs": ["Dream A Little Dream Of Me","Cheek to Cheek","My Funny Valentine"],
