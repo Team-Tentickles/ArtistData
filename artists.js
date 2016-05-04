@@ -202,7 +202,7 @@ var artists = {
 				},
 				{
 					"name": "BACKSTREET BOYS",
-					"bio": ["The Backstreet Boys are an American vocal group, formed in Orlando, Florida in 1993. The group consists of A. J. McLean, Howie Dorough, Nick Carter, Kevin Richardson, and Brian Littrell.\nThe group rose to fame with their debut international album, Backstreet Boys (1996). In the following year they released their second international album Backstreet's Back (1997), and their U.S. debut album which continued the group's success worldwide. They rose to superstardom with their third studio album Millennium (1999) and its follow-up album, Black & Blue (2000).\nThe Backstreet Boys have sold over 145 million records worldwide,making them the best-selling boy band in history, and one of the world's best-selling music artists."],
+					"bio": ["The Backstreet Boys are an American vocal group, formed in Orlando, Florida in 1993. The group consists of A. J. McLean, Howie Dorough, Nick Carter, Kevin Richardson, and Brian Littrell. The group rose to fame with their debut international album, Backstreet Boys (1996). In the following year they released their second international album Backstreet's Back (1997), and their U.S. debut album which continued the group's success worldwide. They rose to superstardom with their third studio album Millennium (1999) and its follow-up album, Black & Blue (2000). The Backstreet Boys have sold over 145 million records worldwide,making them the best-selling boy band in history, and one of the world's best-selling music artists."],
 					"images": ["artistImages/Backstreet_Boys/Backstreet_Boys.png"],
 					"videos": [],
 					"songs": ["I Want It That Way","As Long As You Love Me","EveryBody"],
@@ -218,7 +218,7 @@ var artists = {
 				},
 				{
 					"name": "THE SPICE GIRLS",
-					"bio": ["The Spice Girls were an English pop girl group formed in 1994. The group consists of Melanie Brown, Melanie Chisholm, Emma Bunton, Geri Halliwell, and Victoria Beckham, née Adams. They were signed to Virgin Records and released their debut single \"Wannabe\" in 1996, which hit number one in 37 countries and established them as a global phenomenon. Their debut album Spice sold more than 30 million copies worldwide, becoming the best-selling album by a female group in history. Their follow up album Spiceworld sold over 20 million copies worldwide. The Spice Girls have sold over 80 million records worldwide,making them the best-selling female group of all time, one of the best-selling pop groups of all time, and the biggest British pop phenomenon since Beatlemania."],
+					"bio": ["The Spice Girls were an English pop girl group formed in 1994. The group consists of Melanie Brown, Melanie Chisholm, Emma Bunton, Geri Halliwell, and Victoria Beckham, n&#233;e Adams. They were signed to Virgin Records and released their debut single \"Wannabe\" in 1996, which hit number one in 37 countries and established them as a global phenomenon. Their debut album Spice sold more than 30 million copies worldwide, becoming the best-selling album by a female group in history. Their follow up album Spiceworld sold over 20 million copies worldwide. The Spice Girls have sold over 80 million records worldwide,making them the best-selling female group of all time, one of the best-selling pop groups of all time, and the biggest British pop phenomenon since Beatlemania."],
 					"images": ["artistImages/The_Spice_Girls/The_Spice_Girls.png"],
 					"videos": [],
 					"songs": ["Wannabe","Spice Up Your Life","2 Become 1"],
@@ -231,7 +231,7 @@ var artists = {
 			"artistsArray": [
 				{
 					"name": "GREEN DAY",
-					"bio": ["Green Day is an American punk rock band formed in 1986 by vocalist/guitarist Billie Joe Armstrong and bassist Mike Dirnt. For much of the group's career, the band has been a trio with drummer Tré Cool, who replaced former drummer John Kiffmeyer in 1990. In 2012, guitarist Jason White became a full-time member after having performed with the band as a session and touring member since 1999.Green Day has sold more than 75 million records worldwide and has won five Grammy awards."],
+					"bio": ["Green Day is an American punk rock band formed in 1986 by vocalist/guitarist Billie Joe Armstrong and bassist Mike Dirnt. For much of the group's career, the band has been a trio with drummer Tr&#233; Cool, who replaced former drummer John Kiffmeyer in 1990. In 2012, guitarist Jason White became a full-time member after having performed with the band as a session and touring member since 1999.Green Day has sold more than 75 million records worldwide and has won five Grammy awards."],
 					"images": ["artistImages/Green_Day/Green_Day.png"],
 					"videos": [],
 					"songs": ["American Idiot","Boulevard Of Broken Dreams","Wake Me Up When September Ends"],
