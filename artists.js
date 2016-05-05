@@ -255,7 +255,7 @@ var artists = {
 				},
 				{
 					"name": "BEYONCE",
-					"bio": ["Beyoncé Giselle Knowles-Carter is an American singer, songwriter, record producer and actress. She rose to fame in the late 1990s as lead singer of R&B girl-group Destiny's Child, which became one of the world's best-selling girl groups of all time. In 2003 Beyonce released her first solo album, which established her career as a solo artist worldwide. Throughout a career spanning 19 years, she has sold over 100 million records as a solo artist, and a further 60 million with Destiny's Child, making her one of the best-selling music artists of all time. She has won 20 Grammy Awards and is the most nominated woman in the award's history."],
+					"bio": ["Beyonc&#233; Giselle Knowles-Carter is an American singer, songwriter, record producer and actress. She rose to fame in the late 1990s as lead singer of R&B girl-group Destiny's Child, which became one of the world's best-selling girl groups of all time. In 2003 Beyonce released her first solo album, which established her career as a solo artist worldwide. Throughout a career spanning 19 years, she has sold over 100 million records as a solo artist, and a further 60 million with Destiny's Child, making her one of the best-selling music artists of all time. She has won 20 Grammy Awards and is the most nominated woman in the award's history."],
 					"images": ["artistImages/Beyonce/Beyonce.png"],
 					"videos": [],
 					"songs": ["Crazy In Love","Single Ladies","Halo"],
