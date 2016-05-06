@@ -217,7 +217,7 @@ var artists = {
 					"influencers": []
 				},
 				{
-					"name": "The Spice Girls",
+					"name": "Spice Girls",
 					"bio": ["The Spice Girls were an English pop girl group formed in 1994. The group consists of Melanie Brown, Melanie Chisholm, Emma Bunton, Geri Halliwell, and Victoria Beckham, n&#233;e Adams. They were signed to Virgin Records and released their debut single \"Wannabe\" in 1996, which hit number one in 37 countries and established them as a global phenomenon. Their debut album Spice sold more than 30 million copies worldwide, becoming the best-selling album by a female group in history. Their follow up album Spiceworld sold over 20 million copies worldwide. The Spice Girls have sold over 80 million records worldwide,making them the best-selling female group of all time, one of the best-selling pop groups of all time, and the biggest British pop phenomenon since Beatlemania."],
 					"images": ["artistImages/The_Spice_Girls/The_Spice_Girls.png"],
 					"videos": [],
